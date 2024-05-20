@@ -1,3 +1,8 @@
 There was an issue here
+<<<<<<< HEAD
 which is fixed now
 and now we will be merging this branch to main
+=======
+which got fixed
+now we will be merging hotfix branch to main branch
+>>>>>>> hotfix
